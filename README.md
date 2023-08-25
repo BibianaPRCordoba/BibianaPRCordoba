@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BibianaPRCordoba
-- 👀 I’m interested in software engineer. I'm a student in the UPSRJ in México. 
+- 👀 I’m interested in software engineer and technology. I'm a student in the UPSRJ in México.
+- Member of Microsoft Student Ambassadors ;) 
 - 🌱 I like learning new things 
-- 📫 How to reach me: bprcordoba@gmail.com
+- 📫 How to contact me: bprcordoba@gmail.com
 
 <!---
 BibianaPRCordoba/BibianaPRCordoba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
